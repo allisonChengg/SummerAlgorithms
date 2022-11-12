@@ -1,2 +1,2 @@
-# SummerAlgorithms
-Studying Algorithms during Summer in Preparation for next Tech Class
+# ProgAlgorithms
+ Prog 3 Algorithms - Recursion, etc.
